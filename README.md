@@ -69,11 +69,10 @@ This Streamlit Portfolio is designed to provide a user-friendly and interactive 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Thank you for visiting my Streamlit Portfolio! I hope you find my data science projects engaging and insightful. If you have any questions or feedback, please don't hesitate to reach out.
-
-[Your Name]
-[Your Contact Information]
-[Your Portfolio Website]
+## Author
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
