@@ -48,16 +48,12 @@ This Streamlit Portfolio is designed to provide a user-friendly and interactive 
 - **Code and Documentation:** Access project repositories and detailed documentation for a closer look at the underlying code and methodologies.
 
 ## Project Previews
+## TBD
 
 
 
 
 
-[Project Description] - [Link to Project Repository]
-
-### ...
-
-(Add more project previews as needed)
 
 ## How to Run
 
