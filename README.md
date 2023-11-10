@@ -51,10 +51,7 @@ This Streamlit Portfolio is designed to provide a user-friendly and interactive 
 
 
 
-[Project Description] - [Link to Project Repository]
 
-### Project 2: [Project Name]
-![Project 2 Screenshot](project2_screenshot.jpg)
 
 [Project Description] - [Link to Project Repository]
 
