@@ -55,15 +55,7 @@ This Streamlit Portfolio is designed to provide a user-friendly and interactive 
 
 
 
-## How to Run
 
-To explore this Streamlit Portfolio on your local machine, follow these simple steps:
-
-1. Clone this repository to your local environment.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Streamlit app with `streamlit run app.py`.
-
-Enjoy browsing my data science projects!
 
 ## Technologies Used
 
@@ -71,9 +63,7 @@ Enjoy browsing my data science projects!
 - [Python](https://www.python.org/): Python is used for scripting and data analysis in all the projects showcased here.
 - [Other Technologies]: Mention any other relevant technologies or libraries used in your projects.
 
-## Contributing
 
-If you would like to contribute to this portfolio or report any issues, please feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
 
 ## License
 
