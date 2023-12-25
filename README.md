@@ -24,32 +24,14 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-Welcome to my Streamlit Portfolio! This interactive web application serves as a showcase of my data science and machine learning projects. With a passion for data-driven insights and a knack for creating engaging data applications, I am excited to present this portfolio as a demonstration of my skills and expertise.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Project Previews](#project-previews)
-- [How to Run](#how-to-run)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This Streamlit Portfolio is designed to provide a user-friendly and interactive experience for exploring my data science and machine learning projects. With a simple and intuitive interface, you can navigate through various projects, view detailed project descriptions, and even interact with live demos.
-
-## Features
-
-- **Project Previews:** Discover a collection of my data science projects, each with a brief description and key highlights.
-
-- **Interactive Demos:** Dive deeper into each project with interactive demos, visualizations, and real-time data exploration.
-
-- **Code and Documentation:** Access project repositories and detailed documentation for a closer look at the underlying code and methodologies.
 
 ## Project Previews
-## TBD
 
+**[Project 1: Streamlit Magical Cheat Sheets](https://github.com/tushar2704/Streamlit-Magical-Cheat-Sheets)**
+
+In this project, I made cheat sheets with all of Streamlit in one Streamlit App!(Available in English, Français & Deutsch.)
+With over 15000 lines of code, custom functions to show what the code displays and documentation has been made. 
 
 
 
@@ -61,7 +43,7 @@ This Streamlit Portfolio is designed to provide a user-friendly and interactive 
 
 - [Streamlit](https://streamlit.io/): Streamlit is the backbone of this portfolio, enabling seamless integration of interactive data apps into a web interface.
 - [Python](https://www.python.org/): Python is used for scripting and data analysis in all the projects showcased here.
-- [Other Technologies]: Mention any other relevant technologies or libraries used in your projects.
+- [Other Technologies]: Mention any other relevant technologies or libraries used in respective projects.
 
 
 
