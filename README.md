@@ -30,10 +30,9 @@
 
 **[Project 1: Streamlit Magical Cheat Sheets](https://github.com/tushar2704/Streamlit-Magical-Cheat-Sheets)**
 
-In this project, I made cheat sheets with all of Streamlit in one Streamlit App!(Available in English, Français & Deutsch.)
-With over 15000 lines of code, custom functions to show what the code displays and documentation has been made. 
+In the scope of this project, I have meticulously crafted comprehensive cheat sheets encompassing all aspects of Streamlit within a single Streamlit application. These cheat sheets are available in English, Français, and Deutsch, ensuring accessibility for a diverse audience. The application comprises over 15,000 lines of code, featuring custom functions meticulously designed to elucidate the visual output of the code snippets. Additionally, a robust documentation framework has been established to provide users with clear insights and guidance throughout their interaction with the application.
 
-
+**[Project 2: Stats Mosaic Streamlit](https://github.com/tushar2704/Stats-Mosaic-Streamlit)**
 
 
 
