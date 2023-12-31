@@ -39,6 +39,7 @@ In the scope of this project, I have meticulously crafted comprehensive cheat sh
 **[Project 2: Stats Mosaic Streamlit](https://github.com/tushar2704/Stats-Mosaic-Streamlit)**
 Stats-Mosaic-Streamlit is a comprehensive GitHub repository that aims to provide a growing collection of curated content and projects centered around statistics and its intersection with data science, machine learning, and artificial intelligence.
 
+---
 
 
 
