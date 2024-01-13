@@ -36,10 +36,14 @@ In the scope of this project, I have meticulously crafted comprehensive cheat sh
 
 ---
 
-**[Project 2: Stats Mosaic Streamlit](https://github.com/tushar2704/Stats-Mosaic-Streamlit)**
+**[Project 2: Stats Mosaic Streamlit](https://github.com/tushar2704/Stats-Mosaic-Streamlit)** 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stats-mosaic-guide.streamlit.app/)
+
 Stats-Mosaic-Streamlit is a comprehensive GitHub repository that aims to provide a growing collection of curated content and projects centered around statistics and its intersection with data science, machine learning, and artificial intelligence.
 
+![chrome_SNMStZzShw](https://github.com/tushar2704/Stats-Mosaic-Streamlit/assets/66141195/4646ef17-d37f-4111-835f-56787c948802)
 ---
+
 
 
 
