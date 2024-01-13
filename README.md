@@ -29,6 +29,7 @@
 ## Project Previews
 
 **[Project 1: Streamlit Magic Cheat Sheets](https://github.com/tushar2704/Streamlit-Magic-Cheat-Sheets)**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cheat-sheets.streamlit.app/)
 
 In the scope of this project, I have meticulously crafted comprehensive cheat sheets encompassing all aspects of Streamlit within a single Streamlit application. These cheat sheets are available in English, Français, and Deutsch, ensuring accessibility for a diverse audience. The application comprises over 15,000 lines of code, featuring custom functions meticulously designed to elucidate the visual output of the code snippets. Additionally, a robust documentation framework has been established to provide users with clear insights and guidance throughout their interaction with the application.
 ![2](https://github.com/tushar2704/Streamlit-Magic-Cheat-Sheets/assets/66141195/dec7cf04-e0cc-45d7-8c8c-bec90d92a91a)
