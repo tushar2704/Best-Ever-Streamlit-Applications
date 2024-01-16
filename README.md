@@ -28,6 +28,7 @@
 
 ## Project Previews
 
+
 **[Project 1: Streamlit Magic Cheat Sheets](https://github.com/tushar2704/Streamlit-Magic-Cheat-Sheets)**
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cheat-sheets.streamlit.app/)
 
